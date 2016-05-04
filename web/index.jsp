@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World! customer</h1>
+        <h1>Customer</h1>
+         <a href="read">View All Customers</a>
     </body>
 </html>
